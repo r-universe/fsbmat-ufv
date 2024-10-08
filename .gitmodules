@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "heckmanGE"]
+	path = heckmanGE
+	url = https://github.com/fsbmat-ufv/heckmange
 [submodule "ssmodels"]
 	path = ssmodels
 	url = https://github.com/fsbmat-ufv/ssmodels
