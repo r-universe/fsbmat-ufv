@@ -8,3 +8,6 @@
 [submodule "ssmodels"]
 	path = ssmodels
 	url = https://github.com/fsbmat-ufv/ssmodels
+[submodule "stringArt"]
+	path = stringArt
+	url = https://github.com/fsbmat-ufv/stringart
